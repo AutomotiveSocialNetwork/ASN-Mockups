@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ASN</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_route">My Route</string>
+</resources>
