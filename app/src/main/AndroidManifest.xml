@@ -28,9 +28,11 @@
             android:label="@string/title_activity_register"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>
-        <activity android:name=".FavoritesActivity">
+        <activity android:name=".FavoritesActivity"
+            android:label="Choose your Favorites">
         </activity>
-        <activity android:name=".FeaturesActivity">
+        <activity android:name=".FeaturesActivity"
+            android:label="App Features">
         </activity>
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
